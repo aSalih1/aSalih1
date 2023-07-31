@@ -9,8 +9,8 @@
 
 
 ## Employment
-- Department of Geography in King Faisal University, KSA
-- Department of Geography & GIS in Imam Mohammad Ibn Saud Islamic University, KSA
+- (Department of Geography at King Faisal University, KSA) (https://www.kfu.edu.sa)
+- Department of Geography & GIS at Imam Mohammad Ibn Saud Islamic University, KSA
 
 
 ## Projects
