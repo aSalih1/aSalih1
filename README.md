@@ -4,11 +4,13 @@
 **aSalih1/aSalih1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Education
-University of Khartoum
+- University of Khartoum
 
 
 
 ## Employment
+- Department of Geography in King Faisal University, KSA
+- Department of Geography & GIS in Imam Mohammad Ibn Saud Islamic University, KSA
 
 
 ## Projects
