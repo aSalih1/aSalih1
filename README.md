@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Abdelrahim Salih, Ph.D.
 
-[![Google](https://www.google.com)] | [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=051hpiQAAAAJ&hl=en) | [![Github Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/aSalih1?tab=followers)
+[![Google](https://www.google.com)] | [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=051hpiQAAAAJ&hl=en) | [![Github Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/aSalih1?tab=followers) | [![LinkedIn Badge](http://img.shields.io/badge/My-LinkedIn-blue)](http://linkedin.com/in/abdelrahim-salih)
 
 I am an Assistant Professor in the Department of Geography at the King Faisal University, Eastern Region of Saudi Arabia. My research interests focus on Geographic Information Science (GIS), remote sensing, and environmental change assessment. More specifically, I am interested in applying various GIS and remote sensing data and techniques, including machine learning, and spatial analysis and modeling (e.g., hotspot analysis, geostatistical analysis) to study and assess land cover, natural
 
