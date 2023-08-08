@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Abdelrahim Salih, Ph.D.
 
-**aSalih1/aSalih1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I am an Assistant Professor in the Department of Geography at the King Faisal University, Eastern Region of Saudi Arabia. My research interests focus on Geographic Information Science (GIS), remote sensing, and environmental change assessment. More specifically, I am interested in applying various GIS and remote sensing data and techniques, including machine learning, and spatial analysis and modeling (e.g., hotspot analysis, geostatistical analysis) to study and assess land cover, natural
 
 ## Education
